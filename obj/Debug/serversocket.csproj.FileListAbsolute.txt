@@ -1,0 +1,9 @@
+C:\Users\Pranitha\Desktop\Code\serversocket\obj\Debug\serversocket.exe
+C:\Users\Pranitha\Desktop\Code\serversocket\obj\Debug\serversocket.pdb
+C:\Users\Pranitha\Desktop\Code\serversocket\bin\Debug\serversocket.exe
+C:\Users\Pranitha\Desktop\Code\serversocket\bin\Debug\serversocket.pdb
+C:\Users\Pranitha\Desktop\Code\serversocket\obj\Debug\serversocket.csprojResolveAssemblyReference.cache
+C:\Users\Pranitha\Desktop\Code\serversocket\obj\Debug\serversocket.socketserver.resources
+C:\Users\Pranitha\Desktop\Code\serversocket\obj\Debug\serversocket.csproj.GenerateResource.Cache
+C:\Users\Pranitha\Desktop\serversocket\obj\Debug\serversocket.exe
+C:\Users\Pranitha\Desktop\serversocket\obj\Debug\serversocket.pdb
